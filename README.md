@@ -36,7 +36,7 @@ Transformer-EN-ZH/
 ---
 
 ## 📊 训练曲线
-![loss](d:\AI\TRANSFORMER\transformer_loss_curve.png)
+![loss](.\transformer_loss_curve.png)
 
 ---
 
