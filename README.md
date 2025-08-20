@@ -5,16 +5,16 @@
 
 ## 📁 项目结构
 Transformer-EN-ZH/
-├─ ipynb_checkpoints/           # Jupyter 缓存
-├─ tatoeba_enzh_clean/          # 清洗后的英中平行语料
-├─ best_transformer_model.pt    # 109 MB 最佳模型权重
-├─ bpe.json                     # 32 K 共享子词词表
-├─ corpus_for_bpe.txt           # 用于训练 BPE 的语料
-├─ links.csv                    # Tatoeba 官方 links 文件
-├─ sentences.csv                # Tatoeba 官方 sentences 文件
-├─ loss_history.csv             # 训练 loss 日志
-├─ transformer.ipynb            # 训练 & 推理 Notebook
-└─ transformer_loss_curve.png   # Loss 曲线可视化
+├─ ipynb_checkpoints/           # Jupyter 缓存  
+├─ tatoeba_enzh_clean/          # 清洗后的英中平行语料  
+├─ best_transformer_model.pt    # 109 MB 最佳模型权重  
+├─ bpe.json                     # 32 K 共享子词词表  
+├─ corpus_for_bpe.txt           # 用于训练 BPE 的语料  
+├─ links.csv                    # Tatoeba 官方 links 文件  
+├─ sentences.csv                # Tatoeba 官方 sentences 文件  
+├─ loss_history.csv             # 训练 loss 日志  
+├─ transformer.ipynb            # 训练 & 推理 Notebook  
+└─ transformer_loss_curve.png   # Loss 曲线可视化  
 
 ---
 
